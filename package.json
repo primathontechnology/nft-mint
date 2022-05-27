@@ -1,0 +1,19 @@
+{
+  "name": "mint-nft",
+  "version": "1.0.0",
+  "description": "A nft mint code showing steps for development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft",
+    "mint",
+    "crypto",
+    "hardhat",
+    "infura",
+    "ethereums"
+  ],
+  "author": "Mahaveer Chouhan",
+  "license": "MIT"
+}
