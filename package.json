@@ -18,5 +18,8 @@
   "license": "MIT",
   "devDependencies": {
     "hardhat": "^2.9.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
   }
 }
