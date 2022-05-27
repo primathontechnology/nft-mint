@@ -15,5 +15,8 @@
     "ethereums"
   ],
   "author": "Mahaveer Chouhan",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.6"
+  }
 }

@@ -1,0 +1,5 @@
+.env*
+!.env.sample
+cache/
+artifacts/
+node_modules/
