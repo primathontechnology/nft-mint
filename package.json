@@ -4,6 +4,7 @@
   "description": "A nft mint code showing steps for development.",
   "main": "index.js",
   "scripts": {
+    "compile": "npx hardhat compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -12,9 +13,28 @@
     "crypto",
     "hardhat",
     "infura",
-    "ethereums"
+    "ethereum",
+    "solidity",
+    "javascript",
+    "ethers"
   ],
-  "author": "Mahaveer Chouhan",
+  "authors": [
+    {
+      "name": "Mahaveer Chouhan",
+      "email": "mahi424-primathon@users.noreply.github.com",
+      "url": "https://github.com/mahi424"
+    },
+    {
+      "name": "Mahaveer Chouhan",
+      "email": "mahi424-primathon@users.noreply.github.com",
+      "url": "https://github.com/mahi424-primathon"
+    },
+    {
+      "name": "Primathon Technologies Ventures Private Limited",
+      "email": "primathontech@users.noreply.github.com",
+      "url": "https://github.com/primathontech"
+    }
+  ],
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.6",
