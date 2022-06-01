@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Brown"
+    }
+  ],
+  "description": "The world's most intelligent human",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRVcMbXbXr15Q9dnNZZLsKoZVmwu7nw9gb4V5zUFvat1q",
+  "name": "The Professor"
+}
